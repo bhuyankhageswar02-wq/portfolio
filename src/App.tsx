@@ -217,7 +217,7 @@ export default function App() {
           </div>
           {/* right — photo + card */}
           <div className="hero-photo-wrap">
-            <img src="/assets/image.png" alt="Khageswar Bhuyan" className="hero-photo" />
+            <img src="/assets/images1.png" alt="Khageswar Bhuyan" className="hero-photo" />
             <div className="hero-card">
               <p className="hero-card-name">Khageswar Bhuyan</p>
               <p className="hero-card-role">Manufacturing &amp; Operations Leader</p>
