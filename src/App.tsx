@@ -167,7 +167,7 @@ export default function App() {
       {/* ═══ NAV ═══ */}
       <header className={`site-nav ${scrolled ? 'nav-scrolled' : ''}`}>
         <div className="nav-inner">
-          <a href="#" className="nav-logo">KB<span>.</span></a>
+          <a href="#" className="nav-logo">khageswar<span>.</span></a>
           <nav className="nav-links">
             {NAV.map(l => (
               <a key={l.href} href={l.href} className="nav-link">{l.label}</a>
